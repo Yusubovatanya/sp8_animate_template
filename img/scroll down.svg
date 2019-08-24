@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<defs>
+		<image width="50" height="50" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAEmElEQVRoQ92aWaydcxTFfwsxB0kbEjO32iCGUERIhVAqLRKEEryIEjUl5YHwojwgIcbWkxAqhkQN0dYUQyLGGEJoVc0JQRBjhSWr/X83p/ee3nvOuad1vrOfbu75zv/s9e3939PaoktieyfgSGAyMAnYFRgPbAEI+BX4HvgM+Bh4E3hB0pfdUCE/0LHY3hk4Bzgd2KvDgz4EHgTulfR5h2eselNti+39gKuAk4ENygE/Ay8BLwLvA1HqO+C38nkssy2wC7APcAQwBdi6fP4v8ChwnaR321WqLSC2o8gNwNnFXf4CHgEeABZL+qcdBWxvCBwLnAGcAmwCONYBrpCUF9GStAzE9qnA3cA2wB/AfOAmSV+39EujPGR7B2AOMAvYDPgJOE/Sw62cPyoQ2xsDtwAXlAOfzt9j8eeRFLMd17sTOL48Nw+4RNLKkb43IhDbWxa/nQrEjeZIur2VNzTWZ2zPjsWLuy3JfZSUyNdU1grE9ubAs8ChwLfACZJeH6uC7Xzf9sHA48B2wKvA0ZJ+b3ZGUyDFneJCRwErgKmSPmlHiW49a3sCEIvsBjwXl2vmZmsDEh/NnfgqYVLSp91SrJNzbO9ewvqOwDxJ1X0dPG4YENunlQSVyzVF0mud/Hi3v2P7kJKnEnxmSkoSbQ7E9vbAByXEzpZ0R7cVGst5ti8EEmwSmveW9E113hoWsX1/SU5LJCVR9ZzYXpw7myQs6cxhQGwfUAq5hNl9JS3rORRJ+/YewHslLE+W9Hb0HLSI7ceAE5P8JF3WiyAqnWzfDFwKLJR00iCQkk0Tmf4GBrpVdqyrl1HKmei7ETBB0opVFrGdSnYusEBSCrieF9spVGcC10q6pgKSnmBPYJqkRT2PYvXLPw5I0l4qaZJKZ/cFkH5iXLul+P8FurQA6ThTjQ8ESDq8e1LTSMplr43YTh02Azg3QG4DUmleLinVZm3EdvqXG5MkA6RKMNMlPVUbFKvvyXTgCeCZAElVO5DJh6SlNQMysUxklgdILvlWGQJI+qVmQMaVEdMPAZJmH0mjtr29BrL0TSmpVvYVkH5wrR/76rL3Tfjtm4RY5xJlYcZUVYkSOiBFY/rg8bUtGks/Uucyfpmkif3QWM2VdHUFJOzS8tq3usW96j98KEAOBN4oU/f6joMKmGpAt0jStF4rEouO6dPTrzcf0JWH+mNkWsCEoV1QXOwwSW/1gmVsh/Z+pUwYRx5iN0zy7gLO7yFaIdxIGOPQCvMlRbc1pG5Ez/Nl9jaMTxyJegt/GKaoot5mSEpUW29S3OnJBurtGEkVbz+6RRpcrP5kaAOYMES3Fv47/85I9aJ1xSkWzjCtRUJsJHz+xWOipxttN2Rh4M9weetoYSAXedNSjc+S9FArvtzW5KSscGSyd9aQFY4k0rBcnaxwhH0K89S4wnFfmXx2f4VjiHX2B64cslSTfiYh8mUgbUH4i/DzFcmf+xa+PAxtNokOL4s1GUJHqqWa6yW904oVGp9pyyJDD29YcwpPEVqiE/moLOWs/zWnZtoWUFk8OwjIKLNaPIslIo2LZxnNJpRn8Szd6ZjlP1SBG048bvsAAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill-opacity: 0.749;fill: #ffffff } 
+	</style>
+	<g id="start">
+		<g id="scroll down">
+			<use id="circle" style="fill-opacity: 0.749" href="#img1" x="0" y="0" />
+			<path id="arrow" class="shp0" d="M25 28.99L20 24.09L20 25.5L24.76 30.16L25 30.41L25.22 30.63L25.46 30.87L25.71 30.63L26 30.34L26.17 30.16L31 25.48L31 24.07L26 28.92L26 19.13L25 19.13L25 28.99Z" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.navigation {
+  width: 100vw;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.nav-menu {
+  margin: auto 0 auto auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+#mobile-menu {
+  margin: auto;
+  margin-right: 0;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  cursor: pointer;
+}
+
+.nav-ul {
+  box-sizing: border-box;
+  display: none;
+}
+
+.nav-ul li {
+  list-style-type: none;
+  padding: 20px;
+  padding-top: 0px;
+}
+
+/* Handles how link anchors will transition */
+.nav-ul a {
+  transition: all .5s;
+}
+
+.nav-ul a:hover {
+  color: fff;
+}
+
+/* Media query for desktop */
+@media only screen and (min-width: 900px) {
+  #mobile-menu {
+    display: none;
+  }
+
+  .nav-ul {
+    display: flex;
+    flex-direction: row;
+  }
+}
